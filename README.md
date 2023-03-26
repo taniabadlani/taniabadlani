@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taniabadlani
-- 👀 I’m interested in reading, Learning new things.
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on Web 3 projects.
+- 👀 I’m interested in reading, learning new things.
+- 🌱 I’m currently learning about design.
+- 💞️ I’m looking to collaborate on different projects, helping out with design.
 - 📫 How to reach me taniaukrani@outlook.com
 
 <!---
